@@ -9,7 +9,7 @@ The CyberGuard web interface is designed with a modern, intuitive, and responsiv
 A dark-themed dashboard with gradient effects enhances readability, while interactive cards and charts make security reports easy to understand. The interface follows a modular design, allowing users to switch between different security tools effortlessly.
 
 
-![Image](https://github.com/user-attachments/assets/4df278a1-42a0-427b-a8c6-29ada62957bf)
+![Image](https://github.com/user-attachments/assets/20617cf0-5e27-42d8-b131-020144c798d2)
 
 
 🚀 Features
@@ -17,7 +17,9 @@ A dark-themed dashboard with gradient effects enhances readability, while intera
 Scans the dark web for breached credentials, leaked emails, passwords, and sensitive data.
 Uses Have I Been Pwned API and other sources to alert users of potential security risks.
 
-![Image](https://github.com/user-attachments/assets/f9b4f359-3abc-40d1-b12a-dc02bd31853e)
+
+![Image](https://github.com/user-attachments/assets/c9648e57-9de2-4e78-9273-74d6083db374)
+
 
 #Techstack:
 1.Express.Js for backend and handling APIs
@@ -36,7 +38,9 @@ Validates email authenticity and identifies possible spam or malicious sources.
 2.Manifest V3
 3.HTML, CSS, Javascript
 
-![Image](https://github.com/user-attachments/assets/7ca3acb5-7f25-475e-849e-0d186644dc60)
+
+![Image](https://github.com/user-attachments/assets/2f062d86-0dad-409c-ac5e-2ca2ca10d0e2)
+
 
 
 
@@ -48,7 +52,9 @@ Helps prevent fraudulent emails and phishing attacks.
 1.Manifest V3
 2.HTML, CSS, Javascript
 
-![Image](https://github.com/user-attachments/assets/288ece72-9d40-490b-9087-558d70caf830)
+
+![Image](https://github.com/user-attachments/assets/0c4e1af9-f8bc-4bee-bd6b-1677b2abad54)
+
 
 
 🛡 SQL Injection Checker
@@ -61,7 +67,8 @@ Provides recommendations to mitigate database security risks.
 4.Systems lib
 5.Urllib library
 
-![Image](https://github.com/user-attachments/assets/d2b02785-8b78-4cb7-8334-74a27712790b)
+
+![Image](https://github.com/user-attachments/assets/21cef11a-c035-4b15-a2da-2cc9d4a0b26d)
 
 
 
@@ -76,7 +83,9 @@ Highlights missing Content Security Policy (CSP), HSTS, X-Frame-Options, and oth
 3.Manifest V3
 4.Javascript
 
-![Image](https://github.com/user-attachments/assets/d4ca53d9-d852-4ca2-9e4c-08259f9cb6d3)
+
+![Image](https://github.com/user-attachments/assets/18783d34-082c-4b7b-9086-2d4b11752496)
+
 
 
 ⚠ Third-Party Risk Management
@@ -88,7 +97,9 @@ Warns users if a website relies on outdated or risky third-party resources.
 3.Manifest V3
 4.Javascript
 
-![Image](https://github.com/user-attachments/assets/be11e39d-370b-4b15-99bb-3948c20e1988)
+
+![Image](https://github.com/user-attachments/assets/13bc4acc-4edf-4fec-80d2-7a7546988d58)
+
 
 
 🔑 Password Checker
@@ -98,7 +109,9 @@ Provides password strength analysis and recommends safer alternatives.\\
 1.Manifest V3
 2.Javascript
 
-![Image](https://github.com/user-attachments/assets/c9c7bcbb-9ecb-4600-bef9-a6ea9e98a9a3)
+
+![Image](https://github.com/user-attachments/assets/0b7d17a4-07be-45ed-8afb-200c46625b70)
+
 
 
 
@@ -106,11 +119,13 @@ Provides password strength analysis and recommends safer alternatives.\\
 1.AI Chatbox for security tips & automated assistance.
 Using chatbase.co
 
-![WhatsApp Image 2025-03-07 at 07 04 23_c062fd99](https://github.com/user-attachments/assets/7ce83b54-7efc-460e-b567-9d0ce8a90ce0)
+
+![Image](https://github.com/user-attachments/assets/54a6a5d1-d604-4969-a84b-8e6d6990bc69)
 
 
 
 2.News API Box to fetch the latest cybersecurity news & threat intelligence.
 Using NewsApi
 
-![Image](https://github.com/user-attachments/assets/254d0286-2a8a-472f-8dc8-a4acb52d2c9a)
+
+![Image](https://github.com/user-attachments/assets/5f5291f3-6735-45d7-9b30-b3cbbcb8eb82)
